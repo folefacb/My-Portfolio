@@ -6,7 +6,7 @@ def home():
     
     # Page configs (tab title, favicon)
     st.set_page_config(
-        page_title="Enric Domingo's Portfolio",
+        page_title="Bebongnchu Folefac's Portfolio",
         page_icon="🍕",
     )
 
